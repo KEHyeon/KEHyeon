@@ -6,10 +6,12 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br>
 
 # contacts
 
 -Telegram: https://t.me/kimth0022
+
 -email: kth050213@gmail.com
 
 # stats
