@@ -11,14 +11,14 @@
 <br/>
 <br/>
 
+# stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KEHyeon)](#)
+<br/>
+<br/>
+
 # contacts
 
 -Telegram: https://t.me/kimth0022
 
 -email: kth050213@gmail.com
-<br/>
-<br/>
-
-# stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KEHyeon)](#)
